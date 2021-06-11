@@ -7,13 +7,13 @@ First, install [Yeoman](http://yeoman.io) and generator-simple-project using [np
 
 ```bash
 npm install -g yo
-npm install -g generator-simple-project
+npm install -g generator-simple-demo
 ```
 
 Then generate your new project:
 
 ```bash
-yo simple-project
+yo simple-demo
 ```
 
 ## Getting To Know Yeoman
